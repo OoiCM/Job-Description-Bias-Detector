@@ -1,0 +1,14 @@
+streamlit
+numpy
+pandas
+scikit-learn==1.7.1
+joblib
+spacy>=3.7,<3.8
+nltk
+opencv-python-headless
+pytesseract
+emoji
+langdetect
+openpyxl
+xlrd
+pyenchant
