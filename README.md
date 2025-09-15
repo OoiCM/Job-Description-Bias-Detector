@@ -50,22 +50,22 @@ It is part of a Final Year Project aligned with **SDG 10: Reduced Inequalities**
 
 📂 Repository Structure
 
-Dashboard.py → Main Streamlit dashboard
+- Dashboard.py → Main Streamlit dashboard
 
-SVM/ → Saved pipeline (svm_text_pipeline.pkl)
+- SVM/ → Saved pipeline (svm_text_pipeline.pkl)
 
-Artifacts/ → Label encoder + bias dictionary
+- Artifacts/ → Label encoder + bias dictionary
 
-requirements.txt → Dependencies
+- requirements.txt → Dependencies
 
 📌 Notes
 
-English-only input supported.
+- English-only input supported.
 
-Designed for academic research & demonstration purposes (not production hiring decisions).
+- Designed for academic research & demonstration purposes (not production hiring decisions).
 
-OCR works best on printed, single-page JDs with 150–300 dpi resolution.
+- OCR works best on printed, single-page JDs with 150–300 dpi resolution.
 
 📜 License
 
-This project is for educational and research use.
+- This project is for educational and research use.
