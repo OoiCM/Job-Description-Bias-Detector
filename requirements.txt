@@ -1,9 +1,12 @@
+numpy==1.26.4
+spacy==3.7.4
+thinc==8.2.2
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
 streamlit
 numpy
 pandas
 scikit-learn==1.7.1
 joblib
-spacy>=3.7,<3.8
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
 nltk
 opencv-python-headless
